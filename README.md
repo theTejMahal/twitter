@@ -2,7 +2,7 @@ Simulating multi-agent social networks using a Twitter proof-of-concept.
 
 ## To run
 
-Include an env.py file in src with ANTHROPIC_API_KEY = "XXXXX"
+Include an env.py file in src with ANTHROPIC_API_KEYS = "XXXXX"
 
 In client:
 yarn install
